@@ -4,6 +4,7 @@ Sistema desenvolvido com o objetivo de traduzir textos com base em consultas fei
 
 # Changelog
 
-<strong>1.0.0</strong>
+<strong>v1.0.0</strong>
 
-- test
+- Adicionado a tradução de português para inglês
+- Adicionado a opção de envio de textos via método GET
