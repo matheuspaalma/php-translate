@@ -3,7 +3,7 @@
 $CLIENT_ID = "FREE_TRIAL_ACCOUNT";
 $CLIENT_SECRET = "PUBLIC_SECRET";
 
-//
+// Verificação e valição do texto
 if(isset($_GET['texto'])) {
     $texto = $_GET['texto'];
 } else {
